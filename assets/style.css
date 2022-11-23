@@ -11,6 +11,10 @@ footer {
     color: white;
 }
 
+footer {
+    height: auto;
+}
+
 h1,
 h2 {
     text-align: center;
